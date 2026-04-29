@@ -1,35 +1,57 @@
-# Business — Generative Engine Optimization Map
+# מטפים אש — Generative Engine Optimization Map
+
+> A fire safety and extinguisher services business specializing in standard 129 inspections, maintenance and supply of 6kg fire extinguishers, and issuing official fire safety certificates required for business licensing. The business serves as a certified authority for fire safety compliance, helping business owners meet regulatory requirements for fire safety and business permits in Israel.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://matapei-esh.zappy5.app
 A fire safety and extinguisher services business specializing in standard 129 inspections, maintenance and supply of 6kg fire extinguishers, and issuing officia
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://matapei-esh.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://matapei-esh.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://matapei-esh.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מטפים אש
+A fire safety and extinguisher services business specializing in standard 129 inspections, maintenance and supply of 6kg fire extinguishers, and issuing official fire safety certificates required for business licensing. The business serves as a certified authority for fire safety compliance, helping business owners meet regulatory requirements for fire safety and business permits in Israel.
+
+## Services/Products
+- בדיקת תקן 129
+- תחזוקת מטפי אש 6 ק"ג
+- אספקת מטפי אש 6 ק"ג
+- הנפקת אישורים לכיבוי אש
+- אישורים לרישוי עסקים
+
+## Target Audience
+- בעלי עסקים הזקוקים לרישוי עסקים ואישורי כיבוי אש
+- בעלי עסקים לאישורי כיבוי אש
+- מנהלי נכסים לתחזוקה
+- חברות בנייה לבטיחות
+- מוסדות חינוך לתקן
+- מתקנים תעשייתיים לבטיחות
+
+## Industry
+כיבוי אש ובטיחות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://matapei-esh.zappy5.app/sitemap.xml
+- **Robots.txt**: https://matapei-esh.zappy5.app/robots.txt
